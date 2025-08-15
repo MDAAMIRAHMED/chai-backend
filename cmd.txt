@@ -23,3 +23,9 @@ middlewares
 models 
 routes
 utils
+
+.env / port and mongodb_uri
+
+src/ constants.js / db_name
+
+npm i mongoose express dotenv
