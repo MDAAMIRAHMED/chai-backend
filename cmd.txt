@@ -15,3 +15,11 @@ index.js
 constants.js
 
 npm i -D nodemon
+
+src/
+controllers
+db
+middlewares
+models 
+routes
+utils
