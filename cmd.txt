@@ -2,3 +2,16 @@ node -v
 npm -v
 
 npm init
+
+public/temp/.gitkeep
+
+.env
+.env.sample
+.gitignore (.gitignore generator)
+
+src/
+app.js 
+index.js 
+constants.js
+
+npm i -D nodemon
