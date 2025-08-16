@@ -39,3 +39,9 @@ app.use() json/urlencoder/cors/cookieParser/static
 asyncHandler.js
 ApiError.js
 ApiResponse.js
+
+models 
+
+npm install mongoose-aggregate-paginate-v2
+
+npm i bcrypt jsonwebtoken
