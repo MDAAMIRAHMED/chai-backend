@@ -29,3 +29,13 @@ utils
 src/ constants.js / db_name
 
 npm i mongoose express dotenv
+
+npm i cookie-parser cors
+
+CORS_ORIGIN=*
+
+app.use() json/urlencoder/cors/cookieParser/static
+
+asyncHandler.js
+ApiError.js
+ApiResponse.js
